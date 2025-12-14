@@ -1,5 +1,11 @@
 # AlgoMail - PowerMTA Server Management Platform
 
+
+https://www.algomail.tech/
+
+
+demo : http://demo.algomail.tech/
+
 > **Manage Your PowerMTA Servers. Simple. Powerful.**
 
 ---
@@ -243,4 +249,3 @@ You get:
 
 *AlgoMail - Professional PowerMTA Server Management*
 
-https://www.algomail.tech/
